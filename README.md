@@ -1,14 +1,14 @@
 # crashcourse
 Mobile Application Development Project
 
-To download necessary dependencies:\ 
+To download necessary dependencies:
 ###  `npm i`
 
-To start the program:\ 
+To start the program:
 ###  `expo start`
   
-On a mac, to open the iphone visualizer:\
+On a mac, to open the iphone visualizer:
 ###  `i` 
  
-To run app on phone, scan QR code displayed on the browser or terminal\
+To run app on phone, scan QR code displayed on the browser or terminal.
 
